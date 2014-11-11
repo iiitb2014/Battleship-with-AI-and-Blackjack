@@ -1,0 +1,10 @@
+Every player is given two cards in the beginning of the game.
+Then each player is given five choices:
+
+1. Hit - The player draws another card
+2. Stand - The player doesn't draw any more cards
+3. Dobule down - The player increases the initial bet by 100%, draws another card and then stands
+4. Split(only available at the first turn) - If the player has two cards of the same number then he can split the cards and play two hands at once by placing a bet of the same amount on the second hand as well
+5. Surrender - The player quits
+
+The player with the sum of cards equal to 21 or closest to 21 wins the game. 
