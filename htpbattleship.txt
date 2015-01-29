@@ -1,8 +1,0 @@
-Each player is given 5 ships of varying length -
-1. Aircraft Carrier(5 units)
-2. Battleship(4 units)
-3. Submarine(3 units)
-4. Cruiser(3 units)
-5. Minesweeper(2 units)
-
-The players have to place their ships on a 10x10 grid by entering the coordinates. After both the players place their ships on the grid the game begins. Each player is given a chance to guess the location of the opponent's ships by entering the coordinates of a point on the grid. If the opponent's ship is hit the point on the grid changes to X. If it is a miss it is changed to M. The player who takes out all of the opponent's ships wins the game.
