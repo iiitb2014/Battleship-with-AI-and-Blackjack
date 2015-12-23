@@ -29,8 +29,6 @@ There will be a menu which takes the user input and opens the game that he wants
 
 The A Team
 ==============
-Members
-C Project
 • Rahul Rachuri(IMT2014041)
 • Tarun Dutt(IMT2014059)
 • Shyam Kb(IMT2014050)
