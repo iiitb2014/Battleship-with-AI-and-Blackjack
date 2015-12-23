@@ -29,9 +29,9 @@ There will be a menu which takes the user input and opens the game that he wants
 
 The A Team
 ==============
-• Rahul Rachuri(IMT2014041)
-• Tarun Dutt(IMT2014059)
-• Shyam Kb(IMT2014050)
-• Ankita Victor(IMT2014005)
-• AnshumaanAgrawal(IMT2014007) 
-• Mounika Neerukonda(IMT2014035)
+• Rahul Rachuri(IMT2014041)<br />
+• Tarun Dutt(IMT2014059)<br />
+• Shyam Kb(IMT2014050)<br />
+• Ankita Victor(IMT2014005)<br />
+• AnshumaanAgrawal(IMT2014007)<br />
+• Mounika Neerukonda(IMT2014035)<br />
