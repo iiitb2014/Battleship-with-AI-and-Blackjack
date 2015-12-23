@@ -1,6 +1,10 @@
+==============
 C-Project-2014
+==============
 The A Team
+==============
 Members
+
 C Project
 • Rahul Rachuri(IMT2014041)
 • Tarun Dutt(IMT2014059)
@@ -23,8 +27,9 @@ The aim is to get the sum of the values of the cards as close to 21 as possible.
 The player will have two options at every turn, Hit or Fold.
 If he selects Hit he will be given another card, he is busted if he goes over 21.
 If he selects Fold he will drop out of that hand.
+
+Running the program 
 ==============
-Running the program -
 Use make all to compile the files. Run ./main to execute.
 The A Team
 ==============
